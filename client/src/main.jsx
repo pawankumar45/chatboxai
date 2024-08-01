@@ -9,6 +9,7 @@ import RootLayout from "./layouts/rootLayout/RootLayout";
 import DashboardLayout from "./layouts/dashboardLayout/DashboardLayout";
 import SignInPage from "./routes/signInPage/signInPage";
 import SignUpPage from "./routes/signUpPage/signUpPage";
+import { ClerkProvider } from "@clerk/clerk-react";
 
 const router = createBrowserRouter([
   {
