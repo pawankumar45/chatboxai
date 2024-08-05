@@ -1,4 +1,4 @@
-                                              #Chatbox_AI(CHATGPT)
+                                              #CHATBOX_AI(CHATGPT)
                                               
 1.Technologies/Frameworks:  Reactjs, Expressjs, MongoDB, Gemini AI.
 
