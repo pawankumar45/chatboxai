@@ -1,4 +1,5 @@
-#Chatbox_AI
+                                              #Chatbox_AI(CHATGPT)
+                                              
 1.Technologies/Frameworks:  Reactjs, Expressjs, MongoDB, Gemini AI.
 
 2.Developed a conversational AI application similar to ChatGPT, capable of processing user input and providing accurate, context-aware responses.
